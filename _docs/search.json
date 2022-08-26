@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "turnbased.html",
+    "href": "turnbased.html",
+    "title": "Turn-Based",
+    "section": "",
+    "text": "TurnBasedGame\n\n TurnBasedGame (n_players)\n\nBase class for when creating turn-based games. Implements some basic functionality to control the current player and the representation of the boards.\n\n\n\n\nDetails\n\n\n\n\nn_players\nNumber of players"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "gamestools",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "gamestools",
+    "section": "Install",
+    "text": "Install\npip install gamestools"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "gamestools",
+    "section": "How to use",
+    "text": "How to use\nThis library is intended to be used as a starting point to implement new games, so the idea is to subclass one of the modules that fits your game the most and add all the methods needed for you specific game.\nIt has been used, for example, as the starting point of the games matatena and battleships."
+  }
+]
