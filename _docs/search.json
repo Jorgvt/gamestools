@@ -4,7 +4,7 @@
     "href": "turnbased.html",
     "title": "Turn-Based",
     "section": "",
-    "text": "TurnBasedGame\n\n TurnBasedGame (n_players)\n\nBase class for when creating turn-based games. Implements some basic functionality to control the current player and the representation of the boards.\n\n\n\n\nDetails\n\n\n\n\nn_players\nNumber of players"
+    "text": "source\n\nTurnBasedGame\n\n TurnBasedGame (n_players)\n\nBase class for when creating turn-based games. Implements some basic functionality to control the current player and the representation of the boards.\n\n\n\n\nDetails\n\n\n\n\nn_players\nNumber of players"
   },
   {
     "objectID": "index.html",
